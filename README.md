@@ -4,7 +4,7 @@
 
 **Tip Calculator Pro** is a user-friendly application designed to help you calculate tips and split bills among multiple people. This tool provides a straightforward way to determine how much each person should pay, including the tip, based on the total bill amount and the percentage tip you choose.
 
-**Created By**: Hari Ravendran
+![demo](https://github.com/user-attachments/assets/cb238ff8-c090-42a8-8b88-e73419aab343)
 
 ## Installation Instructions
 
